@@ -774,7 +774,7 @@
  <m:mrow>
   <m:mi>n</m:mi><m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>U</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>92</m:mn>
    </m:mrow>
@@ -784,7 +784,7 @@
   </m:mmultiscripts>
   <m:mo>→</m:mo><m:mmultiscripts>
    <m:mi>C</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>55</m:mn>
    </m:mrow>
@@ -794,7 +794,7 @@
   </m:mmultiscripts>
   <m:mi>s</m:mi><m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>R</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>37</m:mn>
    </m:mrow>
@@ -808,7 +808,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>U</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>92</m:mn>
    </m:mrow>
@@ -822,7 +822,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>C</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>55</m:mn>
    </m:mrow>
@@ -836,7 +836,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>R</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>37</m:mn>
    </m:mrow>
@@ -968,25 +968,25 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>2</m:mn>
   </m:mmultiscripts>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>2</m:mn>
   </m:mmultiscripts>
   <m:mo>→</m:mo><m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>3</m:mn>
   </m:mmultiscripts>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>1</m:mn>
   </m:mmultiscripts>
@@ -996,7 +996,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>2</m:mn>
   </m:mmultiscripts>
@@ -1006,7 +1006,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>3</m:mn>
   </m:mmultiscripts>
@@ -1016,7 +1016,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>1</m:mn>
   </m:mmultiscripts>
@@ -1457,7 +1457,7 @@
  <m:mrow>
   <m:mi>n</m:mi><m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>U</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>92</m:mn>
    </m:mrow>
@@ -1467,7 +1467,7 @@
   </m:mmultiscripts>
   <m:mo>→</m:mo><m:mmultiscripts>
    <m:mi>B</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>56</m:mn>
    </m:mrow>
@@ -1477,7 +1477,7 @@
   </m:mmultiscripts>
   <m:mi>a</m:mi><m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>K</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>36</m:mn>
    </m:mrow>
@@ -1491,7 +1491,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>U</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>92</m:mn>
    </m:mrow>
@@ -1505,7 +1505,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>B</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>56</m:mn>
    </m:mrow>
@@ -1519,7 +1519,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>K</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>36</m:mn>
    </m:mrow>
@@ -1657,19 +1657,19 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>2</m:mn>
   </m:mmultiscripts>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>3</m:mn>
   </m:mmultiscripts>
   <m:mo>→</m:mo><m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>2</m:mn>
    <m:mn>4</m:mn>
   </m:mmultiscripts>
@@ -1679,7 +1679,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>2</m:mn>
   </m:mmultiscripts>
@@ -1689,7 +1689,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>3</m:mn>
   </m:mmultiscripts>
@@ -1699,7 +1699,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>H</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>2</m:mn>
    <m:mn>4</m:mn>
   </m:mmultiscripts>

@@ -228,7 +228,7 @@
  <m:mrow>
   <m:mmultiscripts>
    <m:mtext>H</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>1</m:mn>
    <m:mn>1</m:mn>
   </m:mmultiscripts>
@@ -459,7 +459,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -469,7 +469,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
    <m:mrow>
@@ -481,7 +481,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mtext>H</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>2</m:mn>
    <m:mn>4</m:mn>
   </m:mmultiscripts>
@@ -624,7 +624,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -634,7 +634,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow>
    <m:mi>A</m:mi>
@@ -653,7 +653,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mtext>C</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>55</m:mn></m:mrow>
    <m:mrow>
@@ -665,7 +665,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mtext>B</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>56</m:mn></m:mrow>
    <m:mrow>
@@ -683,7 +683,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mtext>C</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>55</m:mn></m:mrow>
    <m:mrow>
@@ -696,7 +696,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mtext>B</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mn>56</m:mn></m:mrow>
    <m:mrow>
@@ -757,21 +757,21 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mtext>P</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:none/>
    <m:mrow>
     <m:mn>239</m:mn></m:mrow>
   </m:mmultiscripts>
   <m:mtext>u</m:mtext><m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mtext>U</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:none/>
    <m:mrow>
     <m:mn>235</m:mn></m:mrow>
   </m:mmultiscripts>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mtext>H</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:none/>
    <m:mn>4</m:mn>
   </m:mmultiscripts>
@@ -986,7 +986,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -996,7 +996,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
    <m:mrow>
@@ -1008,7 +1008,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mtext>H</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>2</m:mn>
    <m:mn>4</m:mn>
   </m:mmultiscripts>
@@ -1022,7 +1022,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -1032,7 +1032,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow>
    <m:mi>A</m:mi>
@@ -1048,7 +1048,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -1077,7 +1077,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -1087,7 +1087,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
    <m:mrow>
@@ -1099,7 +1099,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mo>+</m:mo><m:mmultiscripts>
    <m:mtext>H</m:mtext>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mn>2</m:mn>
    <m:mn>4</m:mn>
   </m:mmultiscripts>
@@ -1117,7 +1117,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
@@ -1127,7 +1127,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
   </m:msub>
   <m:mrow><m:mo>→</m:mo></m:mrow><m:mmultiscripts>
    <m:mi>Y</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mrow>
     <m:mi>Z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow>
    <m:mi>A</m:mi>
@@ -1147,7 +1147,7 @@ can determine that <emphasis effect="italics">Z </emphasis>= 92 for uranium from
  <m:mrow>
   <m:mmultiscripts>
    <m:mi>X</m:mi>
-   <m:mprescripts/>
+   <m:none/><m:none/><m:mprescripts/>
    <m:mi>Z</m:mi>
    <m:mi>A</m:mi>
   </m:mmultiscripts>
